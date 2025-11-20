@@ -78,3 +78,4 @@ Saved model artifacts (Random Forest, XGBoost, LSTM, scaler) that are ready to b
 
 Overall, this project demonstrates the full data science lifecycle: from problem framing, EDA, feature engineering, and multi-model experimentation to evaluation and deployment-ready forecasting, making it a strong portfolio piece for real-world sales prediction use cases.
 
+© 2025 Gouthami Nadupuri.
