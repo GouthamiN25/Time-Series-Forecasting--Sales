@@ -78,3 +78,11 @@ Saved model artifacts (Random Forest, XGBoost, LSTM, scaler) that are ready to b
 
 Overall, this project demonstrates the full data science lifecycle: from problem framing, EDA, feature engineering, and multi-model experimentation to evaluation and deployment-ready forecasting, making it a strong portfolio piece for real-world sales prediction use cases.
 
+## 📬 Author
+Gouthami Nadupuri
+
+Data Scientist | AI Engineer | Creator of CurioGalaxy 💫
+
+🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
+
+🔗 GitHub: https://github.com/GouthamiN25
